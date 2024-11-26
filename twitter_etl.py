@@ -50,4 +50,3 @@ for tweet in tweets:
 
 df = pd.DataFrame(tweet_list)
 df.to_csv("saisandilya_twitter_data.csv", index=False)
-print("hello")
