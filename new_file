@@ -1,2 +1,3 @@
-##enter new code here
+# enter new code here
+print("hello world")
 
